@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1790592429382" clover="3.2.0">
+  <project timestamp="1790592429382" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7" elements="18" coveredelements="18" complexity="0" loc="11" ncloc="11" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="/home/anasdagga/testing practice/calculator.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="captilize.js" path="/home/anasdagga/testing practice/captilize.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="reverseStr.js" path="/home/anasdagga/testing practice/reverseStr.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/home/anasdagga/testing practice/sum.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
